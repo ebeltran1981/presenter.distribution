@@ -6,7 +6,7 @@ This work is licensed under a license [Creative Commons Attribution-NonCommercia
 
 ## Purpose of the Media Presenter
 
-Sometimes it is time consuming to go a create a slideshow to present just images or videos for a public talk or any part in our meetings. This App tries to solve that problem, by simplifying the presentation of media in our screens. I have just tested this app with very few clickers. Feel free to use the __<a href="#">Issues</a>__ tab of GitHub located at the top of this page and submit your clicker codes for all the buttons.
+Sometimes it is time consuming to go a create a slideshow to present just images or videos for a public talk or any part in our meetings. This App tries to solve that problem, by simplifying the presentation of media in our screens. I have just tested this app with very few clickers. Feel free to use the __<a href="https://github.com/ebeltran1981/presenter.distribution/issues">Issues</a>__ tab of GitHub located at the top of this page and submit your clicker codes for all the buttons.
 
 ### The Media Presenter has few versions:
 
@@ -43,4 +43,4 @@ If this App helped you, donations are welcome... at least it will help me to pay
 * __[Venmo](https://www.venmo.com/ebeltran1981)__
 
 >
-> Thanks for using the Media Presenter. To report any feedback or bugs, use the __<a href="#">Issues</a>__ tab at the top of this page.
+> Thanks for using the Media Presenter. To report any feedback or bugs, use the __<a href="https://github.com/ebeltran1981/presenter.distribution/issues">Issues</a>__ section.
